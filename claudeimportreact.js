@@ -5,8 +5,8 @@ import { Plus, Trash2, CheckCircle, Circle, Settings, RefreshCw, ExternalLink, L
 // CONFIGURATION SECTION
 // ============================================
 const SUPABASE_CONFIG = {
-  url: 'https://your-project-id.supabase.co',  // 👈 PUT YOUR SUPABASE URL HERE
-  anonKey: 'your-anon-key-here',               // 👈 PUT YOUR ANON KEY HERE
+  url: 'https://sfoezehnnkqgqguehugn.supabase.co',  // 👈 PUT YOUR SUPABASE URL HERE
+  anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNmb2V6ZWhubmtxZ3FndWVodWduIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ0OTUwMDYsImV4cCI6MjA3MDA3MTAwNn0.pSR-VdsSF0uqzRn8Pysr8-WknBZQ4DPc6v7EsqbuLRE',               // 👈 PUT YOUR ANON KEY HERE
 };
 
 const hasRealSupabaseCredentials = 
