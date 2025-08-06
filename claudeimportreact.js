@@ -753,7 +753,7 @@ function JiraTodoApp() {
       {/* Header */}
       <div className="mb-8 flex justify-between items-center">
         <div>
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">Jira Todo App</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">Jira Todo App for the win!!</h1>
           <p className="text-gray-600">Welcome back, {user.email}</p>
         </div>
         <button
